@@ -50,4 +50,4 @@ coverage.xml
 docs/_build/
 .mypy_cache
 
-.csv
+*.csv
